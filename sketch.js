@@ -5,7 +5,7 @@ var FoodGroup, obstaclesGroup
 var score =0;
 var ground
 
-
+// added comment
 function preload(){
   
   
